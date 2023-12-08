@@ -15,5 +15,5 @@
 <br>
 <div>
   <img height="210em" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433">
-  <img height="110em" src="https://spotify-github-profile.vercel.app/api/view?uid=skillka27&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
+  <img height="210em" width="200em" src="https://spotify-github-profile.vercel.app/api/view?uid=skillka27&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 </div>
