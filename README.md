@@ -10,7 +10,7 @@
 </div>
 <br>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermekaludin&theme=blue_navy">
+  <img height="1800em" src="https://github-readme-stats.vercel.app/api?username=guilhermekaludin&theme=blue_navy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermekaludin&layout=compact&theme=blue_navy"> 
 </div>
 <br>
