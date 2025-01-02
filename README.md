@@ -1,6 +1,7 @@
 <h1> Olá, meu nome é Guilherme 👋 </h1>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Gui-Java" height="70" width="120" scr="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Gui-Js" height="70" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Gui-React" height="70" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Gui-HTML" height="70" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
